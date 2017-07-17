@@ -1,0 +1,11 @@
+$(document).ready(function()
+{
+$("span#javascript").click(function()
+{
+  $("#js").show();
+});
+$("span#jquery").click(function()
+{
+  $("#jq").show();
+});
+});
